@@ -1,2 +1,5 @@
 # hello-world
-First ever repository
+
+My name is Brandon Nelson
+
+Titan up
